@@ -10,6 +10,7 @@ import android.widget.Toast;
 
 /**
  * Created by AJAY on 04-Nov-16.
+ * event activity
  */
 public class AddMyEventActivity extends AppCompatActivity {
 
